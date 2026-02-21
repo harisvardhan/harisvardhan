@@ -3,6 +3,7 @@
 </div>
 # 👋 Hi, I'm Harisvardhan
 ### 3rd Year Computer Science Student | Backend Developer & Data Enthusiast
+![My 3D Profile Graph](./profile-3d-contrib/profile.svg)
 
 - 🛠️ **Current Focus:** Building scalable backends with **Python & Django**.
 - 📊 **Interests:** Data Analysis and solving complex problems with **Java/DSA**.

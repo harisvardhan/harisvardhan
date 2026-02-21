@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FE&center=true&vCenter=true&width=435&lines=Hi+I'm+Harisvardhan;Backend+Developer;Python+%26+Django+Expert;Data+Analyst+Enthusiast" alt="Typing SVG" />
+</div>
 # 👋 Hi, I'm Harisvardhan
 ### 3rd Year Computer Science Student | Backend Developer & Data Enthusiast
 

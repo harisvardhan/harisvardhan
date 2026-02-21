@@ -11,11 +11,22 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Graph-blue?style=for-the-badge)
+### 🛠️ My Tech Toolbox
+**Languages & Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,html,css,react,kotlin" />
+  </a>
+</p>
+
+**Backend, Data & AI**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,mysql,mongodb,postman,androidstudio,pbi" />
+  </a>
+</p>
+
+**Specializations:** 🤖 Generative AI & Prompt Engineering | 📊 Data Analysis (Pandas, NumPy) | 📱 Mobile App Dev
 
 ---
 
@@ -25,10 +36,31 @@
 
 ---
 
-### 📁 Featured Projects
-* **Social Media Application:** Backend implementation for content and media storage.
-* **Smart Search Engine:** Logic-based file retrieval system using Python.
-* **Morse Code Translator:** A deep dive into encoding/decoding algorithms.
+---
+
+### 🚀 Featured Projects (Professional Experience)
+
+* **🛒 Shoe Store E-Commerce** | [Repo Link]
+  - [cite_start]Developed a responsive Django web application with modern UI and seamless product browsing[cite: 12, 15].
+  - [cite_start]Implemented dynamic product listings, category filtering, and a functional shopping cart[cite: 13].
+
+* **📱 Nexii: Smart Notes App** | [Repo Link]
+  - [cite_start]Built a user-friendly productivity tool for organizing ideas and tasks using **Kotlin** and **Jetpack Compose**[cite: 17, 20].
+  - [cite_start]Designed an intuitive UI ensuring a distraction-free experience across all mobile devices[cite: 19].
+
+* **⚙️ Python Automation & Data Toolkit** | [Repo Link]
+  - [cite_start]Engineered a suite of tools that reduced manual data processing effort by ~45–50%[cite: 22, 23].
+  - [cite_start]Optimized logic using **NumPy** and **Pandas** for high-performance computation and clean data transformation[cite: 24, 25].
+
+---
+---
+
+### 🏆 Certifications & Achievements
+- [cite_start]🎓 **Generative AI & Prompt Engineering** - Infosys Springboard [cite: 35, 37]
+- [cite_start]📱 **Mobile App Development** - Nasscom Foundation (thingQbator) [cite: 27]
+- [cite_start]☕ **Data Structures & Algorithms (Java)** - CipherSchools [cite: 29, 30]
+- [cite_start]☁️ **Cloud Computing** - NPTEL [cite: 31]
+- [cite_start]🌐 **Network Architecture & TCP/IP** - University of Colorado [cite: 33]
 
 <!--
 **harisvardhan/harisvardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
